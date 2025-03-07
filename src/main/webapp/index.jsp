@@ -5,7 +5,7 @@
     <title>User Registration</title>
 </head>
 <body>
-    <h2>User Registration Form</h2>
+    <h2>Naveen</h2>
     <form action="register" method="post">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" required><br><br>
